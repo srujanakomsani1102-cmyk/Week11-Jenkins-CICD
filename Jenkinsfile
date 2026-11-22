@@ -11,7 +11,7 @@ pipeline {
 
         stage('Build') {
             steps {
-                echo 'Building the application'
+                echo 'Building the application-webhook'
             }
         }
 
